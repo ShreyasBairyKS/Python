@@ -34,5 +34,3 @@ Each notebook is numbered and covers a specific topic:
 - Python 3.x  
 - Jupyter Notebook or JupyterLab  
 - Optional libraries depending on notebook: pandas, NumPy, Flask, Streamlit, etc.
-   ```bash
-   git clone https://github.com/ShreyasBairyKS/Python.git
